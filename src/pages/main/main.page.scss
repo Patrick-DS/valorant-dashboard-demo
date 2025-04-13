@@ -1,0 +1,44 @@
+@use '../../styles/_theme.scss' as theme;
+
+.page-container {
+  color: theme.$text-color-primary;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font: theme.$primary-font;
+  color: theme.$text-color-flashy;
+}
+
+main {
+  color: theme.$text-color-primary;
+  width: 100%;
+  max-width: 1800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+}
+
+.central-view {
+  color: theme.$text-color-primary;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.statistics {
+  color: theme.$text-color-primary;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+// Two columns
+.statistics > div {
+  color: theme.$text-color-primary;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}

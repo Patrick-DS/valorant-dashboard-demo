@@ -1,1 +1,1 @@
-export { default as MainPage } from "./main.page"
+export { MainPage } from "./main"

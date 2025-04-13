@@ -1,14 +1,17 @@
-// src/styles/_theme.scss
-
 // Colors
-$primary-background-color: #1a1a1a;
-$secondary-background-color: #2a2a2a;
+$background-color-primary: #1a1a1a;
+$background-color-secondary: #2a2a2a;
 $light-blue-histogram-color: #0aa3a3;
 $teal-histogram-color: #0a647a;
+// Boxes
 $box-border-color: #333;
-
+$box-border-radius: 10px;
 // Text
 $primary-font: "Open Sans Regular";
 $text-color-primary: #fff;
 $text-color-secondary: #888;
-// Add more colors and other theme variables as needed
+$text-color-flashy: #0ff;
+// Spacings
+$primary-margin: 16px;
+// Dimensions
+$right-column-width: 400px;

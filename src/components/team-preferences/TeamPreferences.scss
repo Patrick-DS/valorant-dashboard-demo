@@ -1,0 +1,9 @@
+@use '../../styles/_theme.scss' as theme;
+
+.team-preferences-container {
+  background-color: theme.$background-color-secondary;
+  border: 1px solid theme.$box-border-color;
+  width: theme.$right-column-width;
+  margin: theme.$primary-margin;
+  border-radius: theme.$box-border-radius;
+}
