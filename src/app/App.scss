@@ -1,0 +1,56 @@
+@use '../styles/_theme.scss' as theme;
+
+:root {
+  font-family: theme.$primary-font, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: theme.$text-color-primary;
+  background-color: theme.$background-color-primary;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  text-align: center;
+  max-width: 1500px;
+  min-height: 100vh;
+}
+
+h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+h1 {
+  margin: theme.$primary-spacing 0;
+}
+
+h2 {
+  color: theme.$light-blue-histogram-color;
+}
+
+h3 {
+  font-size: theme.$subtitle-font-size;
+  letter-spacing: 0em;
+  color: theme.$text-color-flashy;
+}
+
+h4 {
+  color: theme.$text-color-secondary;
+}
+
+* {
+  box-sizing: border-box;
+}

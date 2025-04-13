@@ -1,0 +1,11 @@
+@use '../../styles/_theme.scss' as theme;
+
+.chart-container {
+  width: 100%;
+  padding: theme.$primary-spacing;
+  border-radius: theme.$box-border-radius;
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+  font-size: theme.$subtitle-font-size;
+}

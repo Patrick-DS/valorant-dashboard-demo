@@ -1,0 +1,48 @@
+@use '../../styles/_theme.scss' as theme;
+
+.top-picked-agents-container {
+  background-color: theme.$background-color-secondary;
+  border: 1px solid theme.$box-border-color;
+  width: 100%;
+  padding: theme.$primary-spacing;
+  border-radius: theme.$box-border-radius;
+  flex: 1;
+}
+
+.picked-agent-entry {
+  display: flex;
+  flex-direction: column;
+  gap: theme.$secondary-subspacing;
+  padding: theme.$primary-subspacing 0 theme.$secondary-subspacing 0;
+}
+
+.picked-agent-entry + .picked-agent-entry {
+  border-top: 2px solid theme.$box-border-color;
+}
+
+.picked-agent-entry-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.picked-agent-entry-name {
+  color: theme.$text-color-primary;
+}
+
+.picked-agent-entry-pick-count {
+  color: theme.$text-color-flashy;
+}
+
+.picked-agent-entry-details {
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+  color: theme.$text-color-secondary;
+}
+
+.pick-list {
+  line-height: 32px;
+}
