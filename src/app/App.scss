@@ -29,3 +29,15 @@ body {
   max-width: 1500px;
   min-height: 100vh;
 }
+
+h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+h1 {
+  margin: theme.$primary-spacing 0;
+}
+
+* {
+  box-sizing: border-box;
+}

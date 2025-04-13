@@ -19,6 +19,7 @@ main {
   margin: 0 auto;
   display: flex;
   flex-direction: row;
+  gap: theme.$primary-spacing;
 }
 
 .central-view {
@@ -26,6 +27,7 @@ main {
   width: 100%;
   display: flex;
   flex-direction: column;
+  gap: theme.$primary-spacing;
 }
 
 .statistics {
@@ -33,6 +35,7 @@ main {
   width: 100%;
   display: flex;
   flex-direction: row;
+  gap: theme.$primary-spacing;
 }
 
 // Two columns
@@ -41,4 +44,5 @@ main {
   width: 100%;
   display: flex;
   flex-direction: column;
+  gap: theme.$primary-spacing;
 }
