@@ -8,6 +8,7 @@
   border-radius: theme.$box-border-radius;
   display: flex;
   flex-direction: column;
+  height: fit-content;
   gap: theme.$secondary-spacing;
 }
 
