@@ -1,4 +1,4 @@
-@use '../../styles/_theme.scss' as theme;
+@use "../../styles/_theme.scss" as theme;
 
 .most-picked-agent-container {
   background-color: theme.$background-color-secondary;
@@ -21,7 +21,7 @@
 .pick-count {
   color: theme.$text-color-primary;
   font-size: theme.$subtext-font-size;
-  font-weight: 600; 
+  font-weight: 600;
 }
 
 .pick-peak {

@@ -1,256 +1,256 @@
 [
-    {
-        "agent": "Omen",
-        "pickCount": 223,
-        "peak": {
-            "pickRank": "3rd",
-            "pickCount": 46
-        },
-        "pickStats": [
-            {
-                "pickRank": "3rd",
-                "pickCount": 46
-            },
-            {
-                "pickRank": "4th",
-                "pickCount": 42
-            },
-            {
-                "pickRank": "1st",
-                "pickCount": 34
-            },
-            {
-                "pickRank": "6th",
-                "pickCount": 27
-            },
-            {
-                "pickRank": "2nd",
-                "pickCount": 23
-            },
-            {
-                "pickRank": "5th",
-                "pickCount": 22
-            },
-            {
-                "pickRank": "8th",
-                "pickCount": 11
-            },
-            {
-                "pickRank": "7th",
-                "pickCount": 9
-            },
-            {
-                "pickRank": "9th",
-                "pickCount": 6
-            },
-            {
-                "pickRank": "10th",
-                "pickCount": 2
-            },
-            {
-                "pickRank": "3rd",
-                "pickCount": 1
-            }
-        ]
-    },   
-    {
-        "agent": "Clove",
-        "pickCount": 204,
-        "peak": {
-            "pickRank": "6th",
-            "pickCount": 33
-        },
-        "pickStats": [
-            {
-                "pickRank": "6th",
-                "pickCount": 33
-            },
-            {
-                "pickRank": "8th",
-                "pickCount": 25
-            },
-            {
-                "pickRank": "7th",
-                "pickCount": 25
-            },
-            {
-                "pickRank": "9th",
-                "pickCount": 24
-            },
-            {
-                "pickRank": "3rd",
-                "pickCount": 23
-            },
-            {
-                "pickRank": "4th",
-                "pickCount": 21
-            },
-            {
-                "pickRank": "10th",
-                "pickCount": 18
-            },
-            {
-                "pickRank": "5th",
-                "pickCount": 18
-            },
-            {
-                "pickRank": "2nd",
-                "pickCount": 13
-            },
-            {
-                "pickRank": "1st",
-                "pickCount": 4
-            }
-        ]
-    },   
-    {
-        "agent": "Jett",
-        "pickCount": 193,
-        "peak": {
-            "pickRank": "3rd",
-            "pickCount": 31
-        },
-        "pickStats": [
-            {
-                "pickRank": "3rd",
-                "pickCount": 31
-            },
-            {
-                "pickRank": "5th",
-                "pickCount": 26
-            },
-            {
-                "pickRank": "6th",
-                "pickCount": 25
-            },
-            {
-                "pickRank": "8th",
-                "pickCount": 24
-            },
-            {
-                "pickRank": "7th",
-                "pickCount": 19
-            },
-            {
-                "pickRank": "9th",
-                "pickCount": 17
-            },
-            {
-                "pickRank": "10th",
-                "pickCount": 16
-            },
-            {
-                "pickRank": "4th",
-                "pickCount": 16
-            },
-            {
-                "pickRank": "1st",
-                "pickCount": 10
-            },
-            {
-                "pickRank": "2nd",
-                "pickCount": 9
-            }
-        ]
-    },   
-    {
-        "agent": "Sova",
-        "pickCount": 192,
-        "peak": {
-            "pickRank": "1st",
-            "pickCount": 68
-        },
-        "pickStats": [
-            {
-                "pickRank": "1st",
-                "pickCount": 68
-            },
-            {
-                "pickRank": "2nd",
-                "pickCount": 38
-            },
-            {
-                "pickRank": "3rd",
-                "pickCount": 16
-            },
-            {
-                "pickRank": "5th",
-                "pickCount": 14
-            },
-            {
-                "pickRank": "6th",
-                "pickCount": 14
-            },
-            {
-                "pickRank": "7th",
-                "pickCount": 10
-            },
-            {
-                "pickRank": "8th",
-                "pickCount": 9
-            },
-            {
-                "pickRank": "9th",
-                "pickCount": 8
-            },
-            {
-                "pickRank": "4th",
-                "pickCount": 8
-            },
-            {
-                "pickRank": "10th",
-                "pickCount": 7
-            }
-        ]
-    },   
-    {
-        "agent": "Breach",
-        "pickCount": 159,
-        "peak": {
-            "pickRank": "2nd",
-            "pickCount": 57
-        },
-        "pickStats": [
-            {
-                "pickRank": "2nd",
-                "pickCount": 57
-            },
-            {
-                "pickRank": "1st",
-                "pickCount": 53
-            },
-            {
-                "pickRank": "6th",
-                "pickCount": 8
-            },
-            {
-                "pickRank": "5th",
-                "pickCount": 8
-            },
-            {
-                "pickRank": "4th",
-                "pickCount": 7
-            },
-            {
-                "pickRank": "3rd",
-                "pickCount": 7
-            },
-            {
-                "pickRank": "7th",
-                "pickCount": 6
-            },
-            {
-                "pickRank": "8th",
-                "pickCount": 6
-            },
-            {
-                "pickRank": "9th",
-                "pickCount": 5
-            },
-            {
-                "pickRank": "10th",
-                "pickCount": 2
-            }
-        ]
-    }
+  {
+    "agent": "Omen",
+    "pickCount": 223,
+    "peak": {
+      "pickRank": "3rd",
+      "pickCount": 46
+    },
+    "pickStats": [
+      {
+        "pickRank": "3rd",
+        "pickCount": 46
+      },
+      {
+        "pickRank": "4th",
+        "pickCount": 42
+      },
+      {
+        "pickRank": "1st",
+        "pickCount": 34
+      },
+      {
+        "pickRank": "6th",
+        "pickCount": 27
+      },
+      {
+        "pickRank": "2nd",
+        "pickCount": 23
+      },
+      {
+        "pickRank": "5th",
+        "pickCount": 22
+      },
+      {
+        "pickRank": "8th",
+        "pickCount": 11
+      },
+      {
+        "pickRank": "7th",
+        "pickCount": 9
+      },
+      {
+        "pickRank": "9th",
+        "pickCount": 6
+      },
+      {
+        "pickRank": "10th",
+        "pickCount": 2
+      },
+      {
+        "pickRank": "3rd",
+        "pickCount": 1
+      }
+    ]
+  },
+  {
+    "agent": "Clove",
+    "pickCount": 204,
+    "peak": {
+      "pickRank": "6th",
+      "pickCount": 33
+    },
+    "pickStats": [
+      {
+        "pickRank": "6th",
+        "pickCount": 33
+      },
+      {
+        "pickRank": "8th",
+        "pickCount": 25
+      },
+      {
+        "pickRank": "7th",
+        "pickCount": 25
+      },
+      {
+        "pickRank": "9th",
+        "pickCount": 24
+      },
+      {
+        "pickRank": "3rd",
+        "pickCount": 23
+      },
+      {
+        "pickRank": "4th",
+        "pickCount": 21
+      },
+      {
+        "pickRank": "10th",
+        "pickCount": 18
+      },
+      {
+        "pickRank": "5th",
+        "pickCount": 18
+      },
+      {
+        "pickRank": "2nd",
+        "pickCount": 13
+      },
+      {
+        "pickRank": "1st",
+        "pickCount": 4
+      }
+    ]
+  },
+  {
+    "agent": "Jett",
+    "pickCount": 193,
+    "peak": {
+      "pickRank": "3rd",
+      "pickCount": 31
+    },
+    "pickStats": [
+      {
+        "pickRank": "3rd",
+        "pickCount": 31
+      },
+      {
+        "pickRank": "5th",
+        "pickCount": 26
+      },
+      {
+        "pickRank": "6th",
+        "pickCount": 25
+      },
+      {
+        "pickRank": "8th",
+        "pickCount": 24
+      },
+      {
+        "pickRank": "7th",
+        "pickCount": 19
+      },
+      {
+        "pickRank": "9th",
+        "pickCount": 17
+      },
+      {
+        "pickRank": "10th",
+        "pickCount": 16
+      },
+      {
+        "pickRank": "4th",
+        "pickCount": 16
+      },
+      {
+        "pickRank": "1st",
+        "pickCount": 10
+      },
+      {
+        "pickRank": "2nd",
+        "pickCount": 9
+      }
+    ]
+  },
+  {
+    "agent": "Sova",
+    "pickCount": 192,
+    "peak": {
+      "pickRank": "1st",
+      "pickCount": 68
+    },
+    "pickStats": [
+      {
+        "pickRank": "1st",
+        "pickCount": 68
+      },
+      {
+        "pickRank": "2nd",
+        "pickCount": 38
+      },
+      {
+        "pickRank": "3rd",
+        "pickCount": 16
+      },
+      {
+        "pickRank": "5th",
+        "pickCount": 14
+      },
+      {
+        "pickRank": "6th",
+        "pickCount": 14
+      },
+      {
+        "pickRank": "7th",
+        "pickCount": 10
+      },
+      {
+        "pickRank": "8th",
+        "pickCount": 9
+      },
+      {
+        "pickRank": "9th",
+        "pickCount": 8
+      },
+      {
+        "pickRank": "4th",
+        "pickCount": 8
+      },
+      {
+        "pickRank": "10th",
+        "pickCount": 7
+      }
+    ]
+  },
+  {
+    "agent": "Breach",
+    "pickCount": 159,
+    "peak": {
+      "pickRank": "2nd",
+      "pickCount": 57
+    },
+    "pickStats": [
+      {
+        "pickRank": "2nd",
+        "pickCount": 57
+      },
+      {
+        "pickRank": "1st",
+        "pickCount": 53
+      },
+      {
+        "pickRank": "6th",
+        "pickCount": 8
+      },
+      {
+        "pickRank": "5th",
+        "pickCount": 8
+      },
+      {
+        "pickRank": "4th",
+        "pickCount": 7
+      },
+      {
+        "pickRank": "3rd",
+        "pickCount": 7
+      },
+      {
+        "pickRank": "7th",
+        "pickCount": 6
+      },
+      {
+        "pickRank": "8th",
+        "pickCount": 6
+      },
+      {
+        "pickRank": "9th",
+        "pickCount": 5
+      },
+      {
+        "pickRank": "10th",
+        "pickCount": 2
+      }
+    ]
+  }
 ]

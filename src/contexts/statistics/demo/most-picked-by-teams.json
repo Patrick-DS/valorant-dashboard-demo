@@ -1,7 +1,7 @@
 [
-    {"agent": "Omen", "team": "arise", "pickCount": 11},
-    {"agent": "Clove", "team": "Pigeons", "pickCount": 13},
-    {"agent": "Jett", "team": "Pigeons", "pickCount": 10},
-    {"agent": "Sova", "team": "Pigeons", "pickCount": 11},
-    {"agent": "Breach", "team": "Winthrop Academy", "pickCount": 9}
+  { "agent": "Omen", "team": "arise", "pickCount": 11 },
+  { "agent": "Clove", "team": "Pigeons", "pickCount": 13 },
+  { "agent": "Jett", "team": "Pigeons", "pickCount": 10 },
+  { "agent": "Sova", "team": "Pigeons", "pickCount": 11 },
+  { "agent": "Breach", "team": "Winthrop Academy", "pickCount": 9 }
 ]

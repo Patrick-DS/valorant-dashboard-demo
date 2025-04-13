@@ -1,53 +1,51 @@
 export interface AgentStatistic {
-    agent: string;
-    bans: number;
-    picks: number;
+  agent: string
+  bans: number
+  picks: number
 }
 
 // BANS
 export interface AgentBanByTeamStats {
-    agent: string;
-    team: string;
-    banCount: number;
+  agent: string
+  team: string
+  banCount: number
 }
 
 export interface AgentBanStats {
-    agent: string;
-    banCount: number;
-    peak: AgentBanRankStats
+  agent: string
+  banCount: number
+  peak: AgentBanRankStats
 }
 
-
 export interface TopBannedAgent extends AgentBanStats {
-    banStats: AgentBanRankStats[]
+  banStats: AgentBanRankStats[]
 }
 
 export interface AgentBanRankStats {
-    banRank: string;
-    banCount: number;
+  banRank: string
+  banCount: number
 }
 
 // PICKS
 export interface AgentPickByTeamStats {
-    agent: string;
-    team: string;
-    pickCount: number;
+  agent: string
+  team: string
+  pickCount: number
 }
 
 export interface AgentPickStats {
-    agent: string;
-    pickCount: number;
-    peak: AgentBanRankStats
+  agent: string
+  pickCount: number
+  peak: AgentBanRankStats
 }
 
-
 export interface TopPickedAgent extends AgentPickStats {
-    pickStats: AgentPickRankStats[]
+  pickStats: AgentPickRankStats[]
 }
 
 export interface AgentPickRankStats {
-    pickRank: string;
-    pickCount: number;
+  pickRank: string
+  pickCount: number
 }
 
 export type MostBannedAgent = AgentBanStats

@@ -1,7 +1,7 @@
 [
-    {"agent": "Tejo", "team": "5 Big Booms", "banCount": 10},
-    {"agent": "Vyse", "team": "arise", "banCount": 9},
-    {"agent": "Cypher", "team": "HU Storm", "banCount": 7},
-    {"agent": "Yoru", "team": "Pigeons", "banCount": 8},
-    {"agent": "Breach", "team": "5 Big Booms", "banCount": 9}
+  { "agent": "Tejo", "team": "5 Big Booms", "banCount": 10 },
+  { "agent": "Vyse", "team": "arise", "banCount": 9 },
+  { "agent": "Cypher", "team": "HU Storm", "banCount": 7 },
+  { "agent": "Yoru", "team": "Pigeons", "banCount": 8 },
+  { "agent": "Breach", "team": "5 Big Booms", "banCount": 9 }
 ]

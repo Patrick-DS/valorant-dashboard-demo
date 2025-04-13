@@ -1,11 +1,12 @@
-import "./App.scss"
-import { MainPage } from "@/pages"
 import { StatisticsProvider } from "@/contexts"
+import { MainPage } from "@/pages"
+
+import "./App.scss"
 
 const App = () => (
-    <StatisticsProvider>
-        <MainPage />
-    </StatisticsProvider>
+  <StatisticsProvider>
+    <MainPage />
+  </StatisticsProvider>
 )
 
 export default App

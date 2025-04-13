@@ -1,4 +1,4 @@
-@use '../styles/_theme.scss' as theme;
+@use "../styles/_theme.scss" as theme;
 
 :root {
   font-family: theme.$primary-font, system-ui, Avenir, Helvetica, Arial, sans-serif;
@@ -29,7 +29,11 @@ body {
   min-height: 100vh;
 }
 
-h2, h3, h4, h5, h6 {
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin: 0;
 }
 

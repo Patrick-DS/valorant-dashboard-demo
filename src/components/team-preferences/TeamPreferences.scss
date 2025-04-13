@@ -1,9 +1,9 @@
-@use '../../styles/_theme.scss' as theme;
+@use "../../styles/_theme.scss" as theme;
 
 .team-preferences-container {
   background-color: theme.$background-color-secondary;
   border: 1px solid theme.$box-border-color;
-  min-width: theme.$right-column-width; 
+  min-width: theme.$right-column-width;
   width: theme.$right-column-width;
   padding: theme.$primary-spacing;
   border-radius: theme.$box-border-radius;
@@ -39,7 +39,7 @@
 
 .list-entry-agent {
   color: theme.$text-color-primary;
-  font-weight: 500; 
+  font-weight: 500;
 }
 
 .list-entry-team {

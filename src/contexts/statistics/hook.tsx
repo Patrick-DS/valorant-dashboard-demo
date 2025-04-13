@@ -1,4 +1,5 @@
 import { useContext } from "react"
+
 import StatisticsContext from "./context"
 
 const useStatistics = () => {
@@ -8,7 +9,7 @@ const useStatistics = () => {
     throw new Error("StatisticsContext must be used within the StatisticsProvider")
   }
 
-  return context    
+  return context
 }
 
 export default useStatistics
