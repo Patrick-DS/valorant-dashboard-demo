@@ -36,7 +36,7 @@ export interface AgentPickByTeamStats {
 export interface AgentPickStats {
   agent: string
   pickCount: number
-  peak: AgentBanRankStats
+  peak: AgentPickRankStats
 }
 
 export interface TopPickedAgent extends AgentPickStats {

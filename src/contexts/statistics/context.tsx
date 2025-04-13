@@ -21,10 +21,24 @@ export interface StatisticsContextProps {
 }
 
 const StatisticsContext = createContext<StatisticsContextProps>({
-  mostBannedAgent: {},
+  mostBannedAgent: {
+    agent: "",
+    banCount: 0,
+    peak: {
+      banCount: 0,
+      banRank: ""
+    }
+  },
   mostBannedByTeams: [],
   topBannedAgents: [],
-  mostPickedAgent: {},
+  mostPickedAgent: {
+    agent: "",
+    pickCount: 0,
+    peak: {
+      pickCount: 0,
+      pickRank: ""
+    }
+  },
   mostPickedByTeams: [],
   topPickedAgents: [],
   agentStatistics: [],
