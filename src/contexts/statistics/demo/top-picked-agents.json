@@ -6,7 +6,7 @@
             "pickRank": "3rd",
             "pickCount": 46
         },
-        "banStats": [
+        "pickStats": [
             {
                 "pickRank": "3rd",
                 "pickCount": 46
@@ -52,14 +52,15 @@
                 "pickCount": 1
             }
         ]
-    },   {
+    },   
+    {
         "agent": "Clove",
         "pickCount": 204,
         "peak": {
             "pickRank": "6th",
             "pickCount": 33
         },
-        "banStats": [
+        "pickStats": [
             {
                 "pickRank": "6th",
                 "pickCount": 33
@@ -101,14 +102,15 @@
                 "pickCount": 4
             }
         ]
-    },   {
+    },   
+    {
         "agent": "Jett",
         "pickCount": 193,
         "peak": {
             "pickRank": "3rd",
             "pickCount": 31
         },
-        "banStats": [
+        "pickStats": [
             {
                 "pickRank": "3rd",
                 "pickCount": 31
@@ -150,14 +152,15 @@
                 "pickCount": 9
             }
         ]
-    },   {
+    },   
+    {
         "agent": "Sova",
         "pickCount": 192,
         "peak": {
             "pickRank": "1st",
             "pickCount": 68
         },
-        "banStats": [
+        "pickStats": [
             {
                 "pickRank": "1st",
                 "pickCount": 68
@@ -199,14 +202,15 @@
                 "pickCount": 7
             }
         ]
-    },   {
+    },   
+    {
         "agent": "Breach",
         "pickCount": 159,
         "peak": {
             "pickRank": "2nd",
             "pickCount": 57
         },
-        "banStats": [
+        "pickStats": [
             {
                 "pickRank": "2nd",
                 "pickCount": 57
