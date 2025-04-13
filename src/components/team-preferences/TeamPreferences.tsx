@@ -1,8 +1,8 @@
 import "./TeamPreferences.scss"
 
 const MostXedByTeamsList = () => <div className="list-entry-container">
-    {[1,2,3,4,5].map(() => (
-        <div className="list-entry">
+    {[1,2,3,4,5].map((index) => (
+        <div key={index} className="list-entry">
             <span className="list-entry-agent">Tejo</span>
             <span className="list-entry-team">arise(9)</span>
         </div>

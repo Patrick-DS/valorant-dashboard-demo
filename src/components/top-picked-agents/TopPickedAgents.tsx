@@ -4,7 +4,7 @@ const TopPickedAgents = () => (
     <div className="top-picked-agents-container">
         <h3>Top 5 Picked Agents</h3>
         {[1,2,3,4,5].map((index) => (
-            <div className="picked-agent-entry">
+            <div key={index} className="picked-agent-entry">
                 <div className="picked-agent-entry-header">
                     <span className="picked-agent-entry-name">{index}. Tejo</span>
                     <span className="picked-agent-entry-pick-count">arise(9)</span>

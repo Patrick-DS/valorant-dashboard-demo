@@ -4,7 +4,7 @@ const TopBannedAgents = () => (
     <div className="top-banned-agents-container">
         <h3>Top 5 Banned Agents</h3>
         {[1,2,3,4,5].map((index) => (
-            <div className="banned-agent-entry">
+            <div key={index} className="banned-agent-entry">
                 <div className="banned-agent-entry-header">
                     <span className="banned-agent-entry-name">{index}. Tejo</span>
                     <span className="banned-agent-entry-ban-count">arise(9)</span>
