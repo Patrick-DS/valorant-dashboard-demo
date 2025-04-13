@@ -1,0 +1,172 @@
+[
+    {
+        "agent": "Tejo",
+        "banCount": 170,
+        "peak": {
+            "banRank": "1st",
+            "banCount": 66
+        },
+        "banStats": [
+            {
+                "banRank": "1st",
+                "banCount": 66
+            },
+            {
+                "banRank": "2nd",
+                "banCount": 45
+            },
+            {
+                "banRank": "4th",
+                "banCount": 27
+            },
+            {
+                "banRank": "3rd",
+                "banCount": 24
+            },
+            {
+                "banRank": "6th",
+                "banCount": 4
+            },
+            {
+                "banRank": "5th",
+                "banCount": 4
+            }
+        ]
+    },   {
+        "agent": "Vyse",
+        "banCount": 168,
+        "peak": {
+            "banRank": "1st",
+            "banCount": 45
+        },
+        "banStats": [
+            {
+                "banRank": "1st",
+                "banCount": 45
+            },
+            {
+                "banRank": "2nd",
+                "banCount": 28
+            },
+            {
+                "banRank": "3rd",
+                "banCount": 28
+            },
+            {
+                "banRank": "4th",
+                "banCount": 27
+            },
+            {
+                "banRank": "6th",
+                "banCount": 21
+            },
+            {
+                "banRank": "5th",
+                "banCount": 19
+            }
+        ]
+    },   {
+        "agent": "Cypher",
+        "banCount": 136,
+        "peak": {
+            "banRank": "2nd",
+            "banCount": 31
+        },
+        "banStats": [
+            {
+                "banRank": "2nd",
+                "banCount": 31
+            },
+            {
+                "banRank": "4th",
+                "banCount": 31
+            },
+            {
+                "banRank": "3rd",
+                "banCount": 24
+            },
+            {
+                "banRank": "5th",
+                "banCount": 21
+            },
+            {
+                "banRank": "1st",
+                "banCount": 16
+            },
+            {
+                "banRank": "6th",
+                "banCount": 13
+            }
+        ]
+    },   {
+        "agent": "Yoru",
+        "banCount": 118,
+        "peak": {
+            "banRank": "2nd",
+            "banCount": 25
+        },
+        "banStats": [
+            {
+                "banRank": "2nd",
+                "banCount": 25
+            },
+            {
+                "banRank": "6th",
+                "banCount": 20
+            },
+            {
+                "banRank": "5th",
+                "banCount": 20
+            },
+            {
+                "banRank": "1st",
+                "banCount": 19
+            },
+            {
+                "banRank": "4th",
+                "banCount": 19
+            },
+            {
+                "banRank": "3rd",
+                "banCount": 14
+            },
+            {
+                "banRank": "4th",
+                "banCount": 1
+            }
+        ]
+    },   {
+        "agent": "Breach",
+        "banCount": 117,
+        "peak": {
+            "banRank": "1st",
+            "banCount": 48
+        },
+        "banStats": [
+            {
+                "banRank": "1st",
+                "banCount": 48
+            },
+            {
+                "banRank": "2nd",
+                "banCount": 23
+            },
+            {
+                "banRank": "3rd",
+                "banCount": 16
+            },
+            {
+                "banRank": "5th",
+                "banCount": 13
+            },
+            {
+                "banRank": "4th",
+                "banCount": 10
+            },
+            {
+                "banRank": "6th",
+                "banCount": 7
+            }
+        ]
+    }
+]

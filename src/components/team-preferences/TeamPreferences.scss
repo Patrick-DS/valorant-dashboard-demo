@@ -3,6 +3,7 @@
 .team-preferences-container {
   background-color: theme.$background-color-secondary;
   border: 1px solid theme.$box-border-color;
+  min-width: theme.$right-column-width; 
   width: theme.$right-column-width;
   padding: theme.$primary-spacing;
   border-radius: theme.$box-border-radius;

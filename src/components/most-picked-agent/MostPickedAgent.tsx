@@ -1,13 +1,18 @@
+import { useStatistics } from "@/contexts";
 import "./MostPickedAgent.scss"
 
-const MostPickedAgent = () => (
-    <div className="most-picked-agent-container">
-        <h3>Most Picked Agent</h3>
-        <div className="most-picked-agent-details">
-            <span className="ban-count">Omen: 223 picks</span>
-            <span className="ban-peak">Peak: 3rd Pick (48)</span>
+const MostPickedAgent = () => {
+    const { mostPickedAgent: {agent, pickCount, peak: {pickRank: peakPickRank, pickCount: peakPickCount}} } = useStatistics();
+
+    return (
+        <div className="most-picked-agent-container">
+            <h3>Most Picked Agent</h3>
+            <div className="most-picked-agent-details">
+                <span className="pick-count">{agent}: {pickCount} picks</span>
+                <span className="pick-peak">Peak: {peakPickRank} Pick ({peakPickCount})</span>
+            </div>
         </div>
-    </div>
-)
+    )
+}
 
 export default MostPickedAgent
