@@ -9,4 +9,28 @@
   text-align: start;
   display: flex;
   flex-direction: column;
+  gap: theme.$primary-subspacing;
+}
+
+h3 {
+  font-size: theme.$subtitle-font-size;
+  letter-spacing: 0em;
+  color: theme.$text-color-flashy;
+}
+
+.most-banned-agent-details {
+  gap: theme.$secondary-subspacing;
+  display: flex;
+  flex-direction: column;
+}
+
+.ban-count {
+  color: theme.$text-color-primary;
+  font-size: theme.$subtext-font-size;
+  font-weight: 600; 
+}
+
+.ban-peak {
+  color: theme.$text-color-secondary;
+  font-size: theme.$subsubtext-font-size;
 }
