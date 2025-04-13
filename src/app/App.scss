@@ -38,6 +38,16 @@ h1 {
   margin: theme.$primary-spacing 0;
 }
 
+h3 {
+  font-size: theme.$subtitle-font-size;
+  letter-spacing: 0em;
+  color: theme.$text-color-flashy;
+}
+
+h4 {
+  color: theme.$text-color-secondary;
+}
+
 * {
   box-sizing: border-box;
 }

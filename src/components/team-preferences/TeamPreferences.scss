@@ -6,4 +6,40 @@
   width: theme.$right-column-width;
   padding: theme.$primary-spacing;
   border-radius: theme.$box-border-radius;
+  display: flex;
+  flex-direction: column;
+  gap: theme.$secondary-spacing;
+}
+
+.team-preferences-container > div {
+  display: flex;
+  flex-direction: column;
+  gap: theme.$primary-subspacing;
+}
+
+.list-entry-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.list-entry {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  height: 40px;
+}
+
+.list-entry + .list-entry {
+  border-top: 2px solid theme.$box-border-color;
+}
+
+.list-entry-agent {
+  color: theme.$text-color-primary;
+  font-weight: 500; 
+}
+
+.list-entry-team {
+  color: theme.$text-color-flashy;
 }
